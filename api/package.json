@@ -12,7 +12,7 @@
     "type": "git",
     "url": ""
   },
-  "author": "novialim@gmail.com",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "apollo-server-express": "^2.10.1",
